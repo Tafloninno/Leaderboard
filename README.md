@@ -44,7 +44,7 @@
 ## 📖 Leaderboard <a name="about-project"></a>
 
 
-This is a  website that allows add scores and see scores
+This is a  website that allows to add scores and see scores
 
 
 ## 🛠 Built With  VSCode  <a name="Built With VSCode"></a>

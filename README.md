@@ -1,4 +1,4 @@
-# Leaderboard
+
 
 
 
@@ -11,7 +11,7 @@
   
   <br/>
 
-  <h3><b>To-Do list</b></h3>
+  <h3><b>Leaderboard</b></h3>
 
 </div>
 
@@ -41,10 +41,10 @@
 
 
 
-## 📖 To-Do list <a name="about-project"></a>
+## 📖 Leaderboard <a name="about-project"></a>
 
 
-This is a  website that displays a list of Todo tasks and allows you to add new task, adit task and delete a completed task from the list
+This is a  website that allows add scores and see scores
 
 
 ## 🛠 Built With  VSCode  <a name="Built With VSCode"></a>
@@ -67,10 +67,7 @@ This is a  website that displays a list of Todo tasks and allows you to add new 
   </ul>
 </details>
 
-<details>
-<summary>functionality</summary>
- 
-</details>
+
 
 
 
@@ -79,7 +76,7 @@ This is a  website that displays a list of Todo tasks and allows you to add new 
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+<!-- ## 🚀 Live Demo <a name="live-demo"></a> -->
 
 
 
@@ -90,10 +87,6 @@ This is a  website that displays a list of Todo tasks and allows you to add new 
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> A beginner developer can use this template as a starting point for creating one page APP projects using Javascript and HTML/CSS with clean and organized code using the module directory.
-
-
 
 ### Prerequisites
 
@@ -114,7 +107,7 @@ Example command:
 
 Clone this repository to your desired folder:
 <br>
-<br>gh repo clonehttps://github.com/Tafloninno/To_do_list
+<br>gh repo clonehttps://github.com/Tafloninno/Leaderboard
 
 
 
@@ -126,8 +119,8 @@ Install this project with:
 
 ```sh
   
-  gh repo clone Tafloninno/To_do_list
-  cd To_do_list
+  gh repo clone Tafloninno/Leaderboard
+  cd Leaderboard
   npm install -y
 ```
 
@@ -182,8 +175,9 @@ To run tests, run the following command:
 
 > I'll add the following section to the webpage.
 
-- [ ] **Add Remove and Add buttons**
-- [ ] **Interactive list**
+- [ ] **basic page structure**
+- [ ] **send and receive data from API**
+- [ ] **final touches**
 
 
 

@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.heading {
+  font-size: 34px;
+  padding-left: 5%;
+  padding-top: 5%;
+}
+
+.board_container {
+  width: 100%;
+  margin-top: 10%;
+  display: flex;
+  justify-content: center;
+  gap: 5%;
+}
+
+.recent_scores {
+  width: 40%;
+}
+
+.scores {
+  width: 100%;
+  display: flex;
+  gap: 20px;
+}
+
+.scores_wrapper {
+  width: 100%;
+  margin-top: 20px;
+  border: 1px solid black;
+  padding: 4px;
+}
+
+.scores_wrapper li {
+  width: 100%;
+  list-style: none;
+}
+
+.scores_wrapper li:nth-child(even) {
+  background-color: lightgray;
+}
+
+.add_score {
+  display: flex;
+  flex-direction: column;
+}
+
+form {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  margin-top: 15%;
+}
+
+input {
+  width: 100%;
+}
+
+form button {
+  width: 50%;
+  padding: 4px;
+}

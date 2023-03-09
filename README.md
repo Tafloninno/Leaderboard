@@ -66,6 +66,12 @@ This is a  website that allows to add scores and see scores
     <li><a href="https://expressjs.com/">CSS</a></li>
   </ul>
 </details>
+<details>
+  <summary>Functionality</summary>
+  <ul>
+    <li><a href="https://expressjs.com/">CSS</a></li>
+  </ul>
+</details>
 
 
 

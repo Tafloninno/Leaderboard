@@ -4,29 +4,32 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap" rel="stylesheet">
     <title>leaderboard</title>
 <script defer src="runtime.js"></script><script defer src="main.js"></script></head>
 <body>
     <main>
         <section>
             <div class="heading">
-                <h1>leaderboard</h1>
+                <h1><span>Leader</span>board</h1>
             </div>
             <div class="board_container">
                 <div class="recent_scores">
                     <div class="scores">
                         <h2>Recent scores</h2>
-                        <button>Refresh</button>
+                        <button id="refresh_btn">Refresh</button>
                     </div>
                     <ul class="scores_wrapper">
                         
                     </ul>
                 </div>
                 <div class="add_score">
-                    <h2>Add your score</h2>
+                    <h2>Add Score</h2>
                     <form class="score-form">
-                        <input type="text" placeholder="Your name">
-                        <input type="number" placeholder="Your score">
+                        <input type="text" placeholder="Your name" id="name">
+                        <input type="number" placeholder="Your score" id="score">
                         <button type="submit" id="form_button">Submit</button>
                     </form>
                     

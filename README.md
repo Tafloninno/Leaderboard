@@ -84,7 +84,7 @@ This is a  website that allows to add scores and see scores
 
  ## 🚀 Live Demo <a name="live-demo"></a> 
 
-- [Live Demo Link](https://tafloninno.github.io/Portfolio/)
+- [Live Demo Link](https://tafloninno.github.io/Leaderboard/dist/)
 
 
 
